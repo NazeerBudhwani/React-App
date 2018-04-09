@@ -10,3 +10,15 @@ step 7: The browser will show the homepage.
 step 8: There are three navigation tabs: 1.Home 2.Blogs 3.About.
 step 9: click on "Blogs" link to open the blogs page. It consists of three topics 1.java 2.python 3.php.
 step 10: "About me" page have personal information.
+
+
+
+
+
+
+
+
+
+
+
+link for Screenshot video of Assignment: "https://screencast-o-matic.com/watch/cFfQVjDMhs"
